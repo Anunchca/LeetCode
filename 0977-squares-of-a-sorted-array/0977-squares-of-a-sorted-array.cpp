@@ -1,23 +1,21 @@
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
-        auto left {0};
-        auto right {ssize(nums) - 1};
+        auto left{0};
+        auto len{ssize(nums)};
+        auto right{len - 1};
 
-        vector<int> result;
+        vector<int> squaredResult(len);
 
-        for (auto i = left; i <= right; i++) {
-            result.push_back(i * i);
-        }
-
-        while (left < right) {
-            if (result[right] < result[left]) {
-                auto temp  {result[left]};
-                result[left] = result[right];
-                result[right] = temp;
+        for (auto i {right}; i >= 0; --i) {
+            if (abs(nums[left]) > abs(nums[right])) {
+                squaredResult[i] = nums[left] * nums[left];
+                left++;
+            } else {
+                squaredResult[i] = nums[right] * nums[right];
+                right--;
             }
-            right--;
         }
-        return result;
+        return squaredResult;
     }
 };
