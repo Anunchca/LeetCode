@@ -15,9 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Anunchca/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anunchca/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Anunchca/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Anunchca/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
