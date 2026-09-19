@@ -1,7 +1,7 @@
 class Solution {
 public:
     int largestUniqueNumber(vector<int>& nums) {
-        map<int, int> table;
+        unordered_map<int, int> table;
         for (const auto& num : nums) {
             table[num]++;
         }
