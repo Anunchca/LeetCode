@@ -8,9 +8,9 @@ public:
         
         int largest = -1;
         
-        for (auto it = table.begin(); it != table.end(); it++) {
-            if ((it -> second == 1) && (it -> first > largest)) {
-                largest = it -> first;
+        for (auto it : table) {
+            if ((it.second == 1) && (it.first > largest)) {
+                largest = it.first;
             }
         }
         return largest;
