@@ -1,15 +1,25 @@
 class Solution {
 public:
     int largestUniqueNumber(vector<int>& nums) {
-        map<int, int> table;
-        for (const auto& num : nums) {
-            table[num]++;
+        // Create an unordered_map to store the frequency of each number
+        unordered_map<int, int> frequencyMap;
+
+        // Populate the frequencyMap
+        for (int num : nums) {
+            frequencyMap[num]++;
         }
-        for (auto it = table.rbegin(); it != table.rend(); it++) {
-            if (it -> second == 1) {
-                return it -> first;
+
+        // Initialize the result to -1 (default if no unique number is found)
+        int largestUnique = -1;
+
+        for (auto& pair : frequencyMap) {
+            // Check if the number appears only once and is larger than the
+            // current largestUnique
+            if (pair.second == 1 && pair.first > largestUnique) {
+                largestUnique = pair.first;
             }
         }
-        return -1;
+
+        return largestUnique;
     }
 };
