@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-counting-elements](https://github.com/Anunchca/LeetCode/tree/master/1426-counting-elements) |
 | [1480-running-sum-of-1d-array](https://github.com/Anunchca/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Anunchca/LeetCode/tree/master/2090-k-radius-subarray-averages) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Anunchca/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Anunchca/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anunchca/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1133-largest-unique-number](https://github.com/Anunchca/LeetCode/tree/master/1133-largest-unique-number) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Anunchca/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Anunchca/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1426-counting-elements](https://github.com/Anunchca/LeetCode/tree/master/1426-counting-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anunchca/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Anunchca/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Math
 |  |
 | ------- |
@@ -69,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Anunchca/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Anunchca/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
