@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> findWinners(vector<vector<int>>& matches) {
         vector<vector<int>> result(2);
-        map<int, int> game;
+        unordered_map<int, int> game;
 
         for (int i = 0; i < matches.size(); i++) {
             game[matches[i][0]];
@@ -16,6 +16,10 @@ public:
                 result[1].push_back(it.first);
             }
         }
+        
+        ranges::sort(result[0]);
+        ranges::sort(result[1]);
+        
         return result;
     }
 };
