@@ -5,9 +5,7 @@ public:
         map<int, int> game;
 
         for (int i = 0; i < matches.size(); i++) {
-            if (!game.contains(matches[i][0])) {
-                game[matches[i][0]] = 0;
-            }
+            game[matches[i][0]];
             game[matches[i][1]]++;
         }
 
@@ -18,10 +16,6 @@ public:
                 result[1].push_back(it.first);
             }
         }
-
-        ranges::sort(result[0]);
-        ranges::sort(result[1]);
-
         return result;
     }
 };
