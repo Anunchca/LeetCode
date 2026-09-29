@@ -2,27 +2,22 @@ class Solution {
 public:
     bool isValid(string s) {
         stack<char> stack;
+        unordered_map<char, char> matching{{'(', ')'}, {'[', ']'}, {'{', '}'}};
         for (char c : s) {
-            if (c == '(' || c == '{' || c == '[') {
+            if (matching.contains(c)) {
                 stack.push(c);
             }
-            if (c == ')' || c == '}' || c == ']') {
+            else {
                 if (stack.empty()) {
                     return false;
                 }
-                char top = stack.top();
-                if (top == '(' && c == ')') {
-                    stack.pop();
-                }
-                else if (top == '{' && c == '}') {
-                    stack.pop();
-                }
-                else if (top == '[' && c == ']') {
-                    stack.pop();
-                }
-                else {
+                
+                char prev = stack.top();
+                if (matching[prev] != c) {
                     return false;
                 }
+                
+                stack.pop();
             }
         }
         return stack.empty();
