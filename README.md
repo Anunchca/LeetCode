@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anunchca/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Anunchca/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Anunchca/LeetCode/tree/master/0383-ransom-note) |
 | [0844-backspace-string-compare](https://github.com/Anunchca/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anunchca/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Anunchca/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Anunchca/LeetCode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Anunchca/LeetCode/tree/master/0383-ransom-note) |
 | [1133-largest-unique-number](https://github.com/Anunchca/LeetCode/tree/master/1133-largest-unique-number) |
 | [1189-maximum-number-of-balloons](https://github.com/Anunchca/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1426-counting-elements](https://github.com/Anunchca/LeetCode/tree/master/1426-counting-elements) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Anunchca/LeetCode/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Anunchca/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anunchca/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Linked List
