@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Anunchca/LeetCode/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Anunchca/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anunchca/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Anunchca/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anunchca/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Anunchca/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
