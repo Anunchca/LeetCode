@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-counting-elements](https://github.com/Anunchca/LeetCode/tree/master/1426-counting-elements) |
 | [1480-running-sum-of-1d-array](https://github.com/Anunchca/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Anunchca/LeetCode/tree/master/2090-k-radius-subarray-averages) |
+| [2126-destroying-asteroids](https://github.com/Anunchca/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anunchca/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Sorting
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anunchca/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anunchca/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1133-largest-unique-number](https://github.com/Anunchca/LeetCode/tree/master/1133-largest-unique-number) |
+| [2126-destroying-asteroids](https://github.com/Anunchca/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anunchca/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Sliding Window
 |  |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Anunchca/LeetCode/tree/master/0844-backspace-string-compare) |
+## Greedy
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/Anunchca/LeetCode/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
