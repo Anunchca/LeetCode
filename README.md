@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anunchca/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Anunchca/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Anunchca/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Anunchca/LeetCode/tree/master/0383-ransom-note) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anunchca/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Anunchca/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anunchca/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2090-k-radius-subarray-averages](https://github.com/Anunchca/LeetCode/tree/master/2090-k-radius-subarray-averages) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anunchca/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/Anunchca/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Anunchca/LeetCode/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/Anunchca/LeetCode/tree/master/0525-contiguous-array) |
