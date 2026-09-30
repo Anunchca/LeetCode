@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anunchca/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Anunchca/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anunchca/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anunchca/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Anunchca/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1426-counting-elements](https://github.com/Anunchca/LeetCode/tree/master/1426-counting-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anunchca/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anunchca/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anunchca/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Math
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Anunchca/LeetCode/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Anunchca/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Anunchca/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anunchca/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Linked List
 |  |
