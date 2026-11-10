@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Anunchca/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Anunchca/LeetCode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Anunchca/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Anunchca/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anunchca/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Anunchca/LeetCode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Anunchca/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anunchca/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1133-largest-unique-number](https://github.com/Anunchca/LeetCode/tree/master/1133-largest-unique-number) |
 | [2126-destroying-asteroids](https://github.com/Anunchca/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -147,8 +149,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anunchca/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Anunchca/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anunchca/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Anunchca/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Anunchca/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
