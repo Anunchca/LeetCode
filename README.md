@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anunchca/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1426-counting-elements](https://github.com/Anunchca/LeetCode/tree/master/1426-counting-elements) |
 | [1480-running-sum-of-1d-array](https://github.com/Anunchca/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Anunchca/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2090-k-radius-subarray-averages](https://github.com/Anunchca/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 | [2126-destroying-asteroids](https://github.com/Anunchca/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anunchca/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Anunchca/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2126-destroying-asteroids](https://github.com/Anunchca/LeetCode/tree/master/2126-destroying-asteroids) |
 ## Tree
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anunchca/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Anunchca/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Anunchca/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Quickselect
 |  |
 | ------- |
