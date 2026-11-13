@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anunchca/LeetCode/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/Anunchca/LeetCode/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Anunchca/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0973-k-closest-points-to-origin](https://github.com/Anunchca/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anunchca/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anunchca/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1133-largest-unique-number](https://github.com/Anunchca/LeetCode/tree/master/1133-largest-unique-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Anunchca/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Anunchca/LeetCode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Anunchca/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/Anunchca/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anunchca/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1133-largest-unique-number](https://github.com/Anunchca/LeetCode/tree/master/1133-largest-unique-number) |
 | [2126-destroying-asteroids](https://github.com/Anunchca/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anunchca/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Anunchca/LeetCode/tree/master/0268-missing-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Anunchca/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -155,16 +158,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anunchca/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Anunchca/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anunchca/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Anunchca/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/Anunchca/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Anunchca/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anunchca/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Anunchca/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -173,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Anunchca/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Anunchca/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Anunchca/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
